@@ -1,0 +1,47 @@
+2023-05-23 22:24:57
+
+Producto principal:
+corral pollo  15000
+ Ingredientes eliminados: 
+huevo   2500
+
+Precio Total Pedido:  15000
+
+Precio IVA Pedido:  42750000
+
+Precio Neto Pedido:  42765000
+
+
+2023-05-23 22:36:24
+
+Producto principal:
+corral  14000
+ Adicion de: 
+cebolla   1000
+huevo   2500
+ Ingredientes eliminados: 
+piña   2500
+
+Precio Total Pedido:  17500
+
+Precio IVA Pedido:  3325
+
+Precio Neto Pedido:  20825
+2023-05-24 11:40:30
+
+Producto principal:
+agua cristal sin gas  5000
+ Adicion de: 
+papa callejera   2000
+papa callejera   2000
+queso mozzarella   2500
+tocineta picada   6000
+queso fundido   4500
+tocineta picada   6000
+
+
+Precio Total Pedido:  28000
+
+Precio IVA Pedido:  5320
+
+Precio Neto Pedido:  33320
